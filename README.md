@@ -1,10 +1,10 @@
-# 🩸 Sheryan Hayah
+# 🩸 Monqez
 
 ---
 
 ## 📝 Project Description
 
-**Sheryan Hayah** is a smart application designed to organize the blood donation process by connecting blood donors with hospitals and blood banks based on real-time needs. 🚑🩸
+**Monqez** is a smart application designed to organize the blood donation process by connecting blood donors with hospitals and blood banks based on real-time needs. 🚑🩸
 The application helps reduce response time during emergency cases, improves coordination, and contributes directly to saving lives.
 
 ---
@@ -27,7 +27,7 @@ The application helps reduce response time during emergency cases, improves coor
 
 ## ❤️ Project Impact
 
-Every blood donation can save lives. **Sheryan Hayah** aims to make blood donation faster, smarter, and more accessible for everyone.
+Every blood donation can save lives. **Monqez** aims to make blood donation faster, smarter, and more accessible for everyone.
 
 ---
 
