@@ -31,6 +31,164 @@ The application helps reduce response time during emergency cases, improves coor
 
 ---
 
+## 💡 Project Idea
+
+Monqez is a digital solution that connects:
+
+🧑‍🤝‍🧑 Blood Donors
+🏥 Hospitals
+🩸 Blood Banks
+
+Using real-time matching based on:
+
+Blood Type
+Location
+Urgency
+Availability
+🎯 Project Goals
+Reduce emergency response time 🚑
+Improve access to blood donation
+Build trust between donors and medical الجهات
+Encourage community participation
+Provide smooth UX & modern UI
+Support Arabic (RTL) & English
+
+---
+
+## UX Design Process
+🔍 Research Phase
+Individual Work
+
+Mayar
+
+HMW (How Might We)
+Storyboard
+Card Sorting
+Sitemap
+
+Aya
+
+Persona
+Empathy Map
+Information Architecture (IA)
+User Flow
+User Stories
+
+Wessam
+
+Survey
+User Journey Map
+Features Table
+
+Mohamed
+
+Stakeholder Interviews
+SWOT Analysis
+Affinity Mapping
+
+---
+
+## 🧩 UX Design Process
+🔍 Research Phase
+Individual Work
+
+Mayar
+
+HMW (How Might We)
+Storyboard
+Card Sorting
+Sitemap
+
+Aya
+
+Persona
+Empathy Map
+Information Architecture (IA)
+User Flow
+User Stories
+
+Wessam
+
+Survey
+User Journey Map
+Features Table
+
+Mohamed
+
+Stakeholder Interviews
+SWOT Analysis
+Affinity Mapping
+
+---
+
+##🤝 Group Work
+Competitive Analysis
+User Interviews
+Empathy Maps
+Problem Statement
+5W Analysis (Who, What, When, Where, Why)
+Brainstorming
+Color Palette Selection
+## 🧠 Define Phase
+Problem Statement
+Pain Points Identification
+Insights Extraction
+User Needs Analysis
+## 💡 Ideation Phase
+Brainstorming Sessions
+Feature Prioritization
+Sketching
+Solution Mapping
+## 🧪 Prototype Phase
+Low Fidelity Wireframes
+Mid Fidelity Wireframes
+High Fidelity Designs
+Interactive Prototype
+## 🧪 Testing Phase
+Usability Testing
+Feedback Collection
+Iteration & Improvements
+## 🎨 UI Design Process
+## 🎯 Visual Direction
+Moodboard
+Color Palette
+Typography
+Design System
+## 🧱 Wireframing
+Layout Structure
+Grid System
+Screen Organization
+## 🎨 Final UI
+Components
+Icons & Illustrations
+Spacing & Alignment
+Shadows & Effects
+##🔗 Interaction
+Microinteractions
+Animations
+Screen Transitions
+##⚙️ Handoff
+Component Library
+Developer Handoff
+Responsive Design
+##🛠️ Tools Used
+Figma
+FigJam
+Adobe Illustrator
+Adobe Photoshop
+Google Forms
+
+---
+
+## ⚡ Challenges
+Team coordination across UX & UI
+Maintaining design consistency
+Designing RTL (English) interfaces
+Managing time across multiple phases
+Balancing usability with aesthetics
+
+---
+
 ## 👥 Team Members
 
 * 👤 **Mayar Balegh Mohamed Saad**
