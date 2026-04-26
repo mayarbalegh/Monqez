@@ -55,39 +55,6 @@ Support Arabic (RTL) & English
 
 ---
 
-## UX Design Process
-🔍 Research Phase
-Individual Work
-
-Mayar
-
-HMW (How Might We)
-Storyboard
-Card Sorting
-Sitemap
-
-Aya
-
-Persona
-Empathy Map
-Information Architecture (IA)
-User Flow
-User Stories
-
-Wessam
-
-Survey
-User Journey Map
-Features Table
-
-Mohamed
-
-Stakeholder Interviews
-SWOT Analysis
-Affinity Mapping
-
----
-
 ## 🧩 UX Design Process
 🔍 Research Phase
 Individual Work
@@ -95,33 +62,47 @@ Individual Work
 Mayar
 
 HMW (How Might We)
+
 Storyboard
+
 Card Sorting
+
 Sitemap
 
 Aya
 
 Persona
+
 Empathy Map
+
 Information Architecture (IA)
+
 User Flow
+
 User Stories
+
 
 Wessam
 
 Survey
+
 User Journey Map
+
 Features Table
+
 
 Mohamed
 
 Stakeholder Interviews
+
 SWOT Analysis
+
 Affinity Mapping
+
 
 ---
 
-##🤝 Group Work
+## 🤝 Group Work
 Competitive Analysis
 User Interviews
 Empathy Maps
