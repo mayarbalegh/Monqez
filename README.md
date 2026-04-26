@@ -9,6 +9,28 @@ The application helps reduce response time during emergency cases, improves coor
 
 ---
 
+## Figma (UI Design & Prototype)
+
+(Coming Soon)
+
+📚 Case Study
+
+(Coming Soon)
+
+🧠 FigJam UX Analysis
+
+(https://www.figma.com/design/N93B6i5cMZwkvRB9zCqSzp/DEPI-Graduation-Project--Monqez-?node-id=238-4&t=zkTahy8SEWKIlGkA-1)
+
+🎭 Illustrations & Assets
+
+(Coming Soon)
+
+🎯 Behance
+
+(Coming Soon)
+
+---
+
 ## 👥 Team Members
 
 * 👤 **Mayar Balegh Mohamed Saad**
