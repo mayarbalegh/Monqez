@@ -17,7 +17,7 @@ The application helps reduce response time during emergency cases, improves coor
 
 (Coming Soon)
 
-🧠 Figma UX Analysis
+🧠 Figjam UX Analysis
 
 https://www.figma.com/board/jNplvupujdMKg6vM2jXrRy/Case-Study-Graduation-Project--Monqez--DEPI?node-id=0-1&t=6P4GqoSV9TJmO4Jg-1
 
