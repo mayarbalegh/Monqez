@@ -33,7 +33,9 @@ Mohamed Ahmed Abdelhady El Sherif
 
 # Work Plan
 ##UX Design Process
+---
 ##Empathize
+---
 Project overview
 
 Stakeholder Interview
