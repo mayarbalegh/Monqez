@@ -104,7 +104,7 @@ Mohamed Ahmed Abdelhady El Sherif
     - SWOT Analysis
     - Affinity Map
   
-  - Teamwork
+- Teamwork
     - Sketching
     - Low Fidelity Wireframes
     - Design System
