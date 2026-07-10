@@ -36,19 +36,12 @@ UX Design Process
 ---
 
 - Empathize
-
  - Project overview
-
  - Stakeholder Interview
-
  - Competitive Analysis
-
  - SWOT Analysis
-
  - User Research
-
  - Interviews
-
  - Surveys
 
 Define
