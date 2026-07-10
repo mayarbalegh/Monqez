@@ -34,7 +34,7 @@ Mohamed Ahmed Abdelhady El Sherif
 # Work Plan
 UX Design Process
 ---
-- Empathize
+## Empathize
  - Project overview
  - Stakeholder Interview
  - Competitive Analysis
