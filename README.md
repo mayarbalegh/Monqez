@@ -54,7 +54,7 @@ Mohamed Ahmed Abdelhady El Sherif
 
 - Ideate
   - Brainstorming
-  - tory Board
+  - Story Board
   - Site Map(App & Dashboard)
   - Information Architecture(App & Dashboard)
   - User flow (App & Dashboard)
