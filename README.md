@@ -100,6 +100,7 @@ UI Design Process
     - Problem Problem Statement
     - Card Sorting
     - Story Board
+  
   - Aya Mohesn
     - 1 Competitor (Blood Donation on Social Media in Egypt)
     - 3 Interview
@@ -109,6 +110,7 @@ UI Design Process
     - Site Map(App & Dashboard)
     - Information Architecture(App & Dashboard)
     - User flow (App & Dashboard)
+  
   - Wessam Mohamed
     - Project Overview
     - 1 Competitor (Blood Bank Egypt)
@@ -116,18 +118,22 @@ UI Design Process
     - Features Table
     - Survey
     - User Journey Map
+  
   - Mohamed Ahmed
     - Stakeholder Interview
     - 1 Competitor (Blood Bank Sherbeen)
     - 2 Interview
     - SWOT Analysis
     - Affinity Map
+  
   - Teamwork
     - Sketching
     - Low Fidelity Wireframes
     - Design System
+   
 - Branding
   - Aya Mohesn
+ 
 - UI
   - Mayar Balegh
     - Edited Sign In screens.
@@ -145,6 +151,7 @@ UI Design Process
     - Designed Contact Us screen.
     - Designed Notification screens.
     - Created reusable UI Components for the designed screens.
+  
   - Aya Mohesn
     - Updated Onboarding screens.
     - Updated Splash screen.
@@ -160,11 +167,13 @@ UI Design Process
     - Designed Dashboard screens.
     - Designed Landing Page.
     - Created UI Components for all designed screens.
+  
   - Wessam Mohamed
     - Designed Splash screen.
     - Designed the three Onboarding screens.
     - Designed Success screens for completed actions.
     - Designed Failure screens for unsuccessful actions.
+  
   - Mohamed Ahmed
     - Designed Sign In screens.
     - Designed Sign Up screens.
@@ -173,6 +182,7 @@ UI Design Process
     - Designed Permission screens.
     - Developed the Landing Page.
     - Created UI Components for the designed screens.
+    
 - Case Study
   - Aya Mohesn
 
