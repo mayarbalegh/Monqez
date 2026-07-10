@@ -134,8 +134,6 @@ Mohamed Ahmed Abdelhady El Sherif
     - Updated Onboarding screens.
     - Updated Splash screen.
     - Designed Home screen.
-    - Designed Dashboard screens.
-    - Designed Landing Page.
     - Designed Plan Routine screens.
     - Designed Blood Analysis Upload screens.
     - Designed Blood Test Results screens.
