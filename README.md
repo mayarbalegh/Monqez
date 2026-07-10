@@ -32,71 +32,98 @@ Wessam Mohamed Alhanafy
 Mohamed Ahmed Abdelhady El Sherif
 
 ## Work Plan
-UX Design Process
-Empathize
+###UX Design Process
+####Empathize
 
 Project overview
+
 Stakeholder Interview
+
 Competitive Analysis
+
 SWOT Analysis
+
 User Research
+
 Interviews
+
 Surveys
 
-Define
+####Define
 
 Empathy Map
+
 User Persona 
+
 User Journey Map
+
 HMW (How Might We..)
+
 Affinity Map
+
 Problem Statement
+
 Cart Sorting
 
-Ideate
+####Ideate
 
 Brainstorming
+
 story Board
+
 Site Map(App & Dashboard)
+
 Information Architecture(App & Dashboard)
+
 User flow (App & Dashboard)
+
 Sketching
 
-Prototype
+####Prototype
 
 Low Fidelity Wireframes
+
 Mid Fidelity Wireframes
+
 Design system
+
 High Fidelity Prototype
 
-Test
+####Test
 
 Usability Testing
-A/B Testing
-Feedback Analysis
-Iteration
 
-##UI Design Process
-Research & Inspiration
+
+###UI Design Process
+
+####Research & Inspiration
 
 Color Palette
+
 Typography
-Wireframing
+
+####Wireframing
 
 Layout Structure
+
 Grid System
 
-Visual Design
+####Visual Design
 
 UI Components
+
 Icons & Illustrations
+
 Imagery
+
 Shadows & Effects
+
 Spacing & Alignment
-Prototyping & Interaction
+
+####Prototyping & Interaction
 
 Interactive Prototype (Figma)
-Microinteractions
+
 Transitions & Animations
 
 ## Instructor Name
