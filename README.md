@@ -35,21 +35,21 @@ Mohamed Ahmed Abdelhady El Sherif
 UX Design Process
 ---
 
-Empathize
----
-Project overview
+- Empathize
 
-Stakeholder Interview
+ - Project overview
 
-Competitive Analysis
+ - Stakeholder Interview
 
-SWOT Analysis
+ - Competitive Analysis
 
-User Research
+ - SWOT Analysis
 
-Interviews
+ - User Research
 
-Surveys
+ - Interviews
+
+ - Surveys
 
 Define
 ---
