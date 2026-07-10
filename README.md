@@ -122,8 +122,63 @@ UI Design Process
     - 2 Interview
     - SWOT Analysis
     - Affinity Map
-  
+  - Teamwork
+    - Sketching
+    - Low Fidelity Wireframes
+    - Design System
+- Branding
+  - Aya Mohesn
+- UI
+  - Mayar Balegh
+    - Edited Sign In screens.
+    - Edited Sign Up screens.
+    - Updated Login and Registration flow.
+    - Modified OTP verification screens.
+    - Designed Complete Account screens.
+    - Created Error State screens.
+    - Created Empty State screens.
+    - Designed User Profile screens.
+    - Designed Donation History screens.
+    - Designed Rewards screens.
+    - Designed Settings screens.
+    - Designed Edit Profile screen.
+    - Designed Contact Us screen.
+    - Designed Notification screens.
+    - Created reusable UI Components for the designed screens.
+  - Aya Mohesn
+    - Updated Onboarding screens.
+    - Updated Splash screen.
+    - Designed Home screen.
+    - Designed Dashboard screens.
+    - Designed Landing Page.
+    - Designed Plan Routine screens.
+    - Designed Blood Analysis Upload screens.
+    - Designed Blood Test Results screens.
+    - Designed Health Tracking screens.
+    - Designed AI Chat screens.
+    - Designed the complete Donation Flow screens.
+    - Designed Dashboard screens.
+    - Designed Landing Page.
+    - Created UI Components for all designed screens.
+  - Wessam Mohamed
+    - Designed Splash screen.
+    - Designed the three Onboarding screens.
+    - Designed Success screens for completed actions.
+    - Designed Failure screens for unsuccessful actions.
+  - Mohamed Ahmed
+    - Designed Sign In screens.
+    - Designed Sign Up screens.
+    - Designed OTP verification screens.
+    - Designed Location Access screens.
+    - Designed Permission screens.
+    - Developed the Landing Page.
+    - Created UI Components for the designed screens.
+- Case Study
+  - Aya Mohesn
 
+- Presentation
+  - Aya Mohesn
+    
 ## Instructor Name
 Ahmed Abozyada
 
