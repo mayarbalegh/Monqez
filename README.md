@@ -34,7 +34,7 @@ Mohamed Ahmed Abdelhady El Sherif
 ## Work Plan
 UX Design Process
 
-##Empathize
+Empathize
 ---
 Project overview
 
@@ -50,8 +50,8 @@ Interviews
 
 Surveys
 
-####Define
-
+Define
+---
 Empathy Map
 
 User Persona 
@@ -66,7 +66,8 @@ Problem Statement
 
 Cart Sorting
 
-###Ideate
+Ideate
+---
 Brainstorming
 
 story Board
@@ -79,7 +80,8 @@ User flow (App & Dashboard)
 
 Sketching
 
-###Prototype
+Prototype
+---
 Low Fidelity Wireframes
 
 Mid Fidelity Wireframes
@@ -91,19 +93,22 @@ High Fidelity Prototype
 ###Test
 Usability Testing
 
-##UI Design Process
-###Research & Inspiration
+#UI Design Process
+Research & Inspiration
+---
 
 Color Palette
 
 Typography
 
-###Wireframing
+Wireframing
+---
 Layout Structure
 
 Grid System
 
-###Visual Design
+Visual Design
+---
 UI Components
 
 Icons & Illustrations
@@ -114,7 +119,8 @@ Shadows & Effects
 
 Spacing & Alignment
 
-###Prototyping & Interaction
+Prototyping & Interaction
+---
 Interactive Prototype (Figma)
 
 Transitions & Animations
