@@ -91,6 +91,39 @@ UI Design Process
   - Interactive Prototype (Figma)
   - Transitions & Animations
 
+# Roles and Responsibilities
+- UX
+  - Mayar Balegh
+    - 1 Competitor (Egyptian Red Crescent)
+    - 3 Interview
+    - HMW...
+    - Problem Problem Statement
+    - Card Sorting
+    - Story Board
+  - Aya Mohesn
+    - 1 Competitor (Blood Donation on Social Media in Egypt)
+    - 3 Interview
+    - User Persona
+    - Empathy Map
+    - User Story
+    - Site Map(App & Dashboard)
+    - Information Architecture(App & Dashboard)
+    - User flow (App & Dashboard)
+  - Wessam Mohamed
+    - Project Overview
+    - 1 Competitor (Blood Bank Egypt)
+    - 2 Interview
+    - Features Table
+    - Survey
+    - User Journey Map
+  - Mohamed Ahmed
+    - Stakeholder Interview
+    - 1 Competitor (Blood Bank Sherbeen)
+    - 2 Interview
+    - SWOT Analysis
+    - Affinity Map
+  
+
 ## Instructor Name
 Ahmed Abozyada
 
