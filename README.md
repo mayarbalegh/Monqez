@@ -43,21 +43,14 @@ Mohamed Ahmed Abdelhady El Sherif
  - Interviews
  - Surveys
 
-Define
----
-Empathy Map
-
-User Persona 
-
-User Journey Map
-
-HMW (How Might We..)
-
-Affinity Map
-
-Problem Statement
-
-Cart Sorting
+- Define
+  - Empathy Map
+  - User Persona 
+  - User Journey Map
+  - HMW (How Might We..)
+  - Affinity Map
+  - Problem Statement
+  - Cart Sorting
 
 Ideate
 ---
