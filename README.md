@@ -10,10 +10,19 @@ Monqez redefines blood donation by building a connected ecosystem where hospital
 ---
 (https://www.figma.com/board/jNplvupujdMKg6vM2jXrRy/Case-Study-Graduation-Project--Monqez--DEPI?node-id=0-1&t=hUL2Dzq6FrKIJTQA-1)
 
+(Branding)
+---
+(https://www.figma.com/design/N93B6i5cMZwkvRB9zCqSzp/DEPI-Graduation-Project--Monqez-?node-id=238-4&t=WY91S3IeqGK5XvX7-1)
 
+(UI Final Design & Prototype)
+---
+(https://www.figma.com/design/N93B6i5cMZwkvRB9zCqSzp/DEPI-Graduation-Project--Monqez-?node-id=1214-21956&t=WY91S3IeqGK5XvX7-1)
 
+(Case study)
+---
+(https://www.figma.com/design/N93B6i5cMZwkvRB9zCqSzp/DEPI-Graduation-Project--Monqez-?node-id=1322-20322&t=WY91S3IeqGK5XvX7-1)
 
 
 ## Instructor Name
-# Ahmed Abozyada
+Ahmed Abozyada
 
