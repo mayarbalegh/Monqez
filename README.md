@@ -34,14 +34,14 @@ Mohamed Ahmed Abdelhady El Sherif
 # Work Plan
 ## UX Design Process
 
-## Empathize
- - Project overview
- - Stakeholder Interview
- - Competitive Analysis
- - SWOT Analysis
- - User Research
- - Interviews
- - Surveys
+- Empathize
+  - Project overview
+  - Stakeholder Interview
+  - Competitive Analysis
+  - SWOT Analysis
+  - User Research
+  - Interviews
+  - Surveys
 
 - Define
   - Empathy Map
