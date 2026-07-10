@@ -52,67 +52,44 @@ Mohamed Ahmed Abdelhady El Sherif
   - Problem Statement
   - Cart Sorting
 
-Ideate
----
-Brainstorming
+- Ideate
+  - Brainstorming
+  - tory Board
+  - Site Map(App & Dashboard)
+  - Information Architecture(App & Dashboard)
+  - User flow (App & Dashboard)
+  - Sketching
 
-story Board
+- Prototype
+  - Low Fidelity Wireframes
+  - Mid Fidelity Wireframes
+  - Design system
+  - High Fidelity Prototype
 
-Site Map(App & Dashboard)
-
-Information Architecture(App & Dashboard)
-
-User flow (App & Dashboard)
-
-Sketching
-
-Prototype
----
-Low Fidelity Wireframes
-
-Mid Fidelity Wireframes
-
-Design system
-
-High Fidelity Prototype
-
-Test
----
-Usability Testing
+- Test
+  - Usability Testing
 
 UI Design Process
 ---
 
-Research & Inspiration
----
+- Research & Inspiration
+  - Color Palette
+  - Typography
 
-Color Palette
+- Wireframing
+  - Layout Structure
+  - Grid System
 
-Typography
+- Visual Design
+  - UI Components
+  - Icons & Illustrations
+  - Imagery
+  - Shadows & Effects
+  - Spacing & Alignment
 
-Wireframing
----
-Layout Structure
-
-Grid System
-
-Visual Design
----
-UI Components
-
-Icons & Illustrations
-
-Imagery
-
-Shadows & Effects
-
-Spacing & Alignment
-
-Prototyping & Interaction
----
-Interactive Prototype (Figma)
-
-Transitions & Animations
+- Prototyping & Interaction
+  - Interactive Prototype (Figma)
+  - Transitions & Animations
 
 ## Instructor Name
 Ahmed Abozyada
