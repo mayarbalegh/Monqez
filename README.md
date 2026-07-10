@@ -22,6 +22,12 @@ Monqez redefines blood donation by building a connected ecosystem where hospital
 (https://www.figma.com/design/N93B6i5cMZwkvRB9zCqSzp/DEPI-Graduation-Project--Monqez-?node-id=1322-20322&t=WY91S3IeqGK5XvX7-1)
 
 
+Team Members
+Mayar Balegh Mohamed Saad
+Aya Mohesn Rohoma
+Wessam Mohamed Alhanafy
+Mohamed Ahmed Abdelhady El Sherif
+
 ## Instructor Name
 Ahmed Abozyada
 
