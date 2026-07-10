@@ -32,8 +32,6 @@ Wessam Mohamed Alhanafy
 Mohamed Ahmed Abdelhady El Sherif
 
 # Work Plan
-## UX Design Process
-
 - Empathize
   - Project overview
   - Stakeholder Interview
@@ -63,33 +61,13 @@ Mohamed Ahmed Abdelhady El Sherif
 - Prototype
   - Low Fidelity Wireframes
   - Mid Fidelity Wireframes
+  - Branding
   - Design system
   - High Fidelity Prototype
+  - Landing page
 
 - Test
   - Usability Testing
-
-UI Design Process
----
-
-- Research & Inspiration
-  - Color Palette
-  - Typography
-
-- Wireframing
-  - Layout Structure
-  - Grid System
-
-- Visual Design
-  - UI Components
-  - Icons & Illustrations
-  - Imagery
-  - Shadows & Effects
-  - Spacing & Alignment
-
-- Prototyping & Interaction
-  - Interactive Prototype (Figma)
-  - Transitions & Animations
 
 # Roles and Responsibilities
 - UX
