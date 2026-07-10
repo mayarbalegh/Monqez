@@ -31,8 +31,9 @@ Wessam Mohamed Alhanafy
 
 Mohamed Ahmed Abdelhady El Sherif
 
-## Work Plan
+# Work Plan
 UX Design Process
+---
 
 Empathize
 ---
@@ -90,10 +91,12 @@ Design system
 
 High Fidelity Prototype
 
-###Test
+Test
+---
 Usability Testing
 
 #UI Design Process
+
 Research & Inspiration
 ---
 
