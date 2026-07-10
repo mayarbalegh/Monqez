@@ -32,7 +32,7 @@ Wessam Mohamed Alhanafy
 Mohamed Ahmed Abdelhady El Sherif
 
 ## Work Plan
-###UX Design Process
+UX Design Process
 
 ##Empathize
 ---
