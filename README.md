@@ -23,7 +23,7 @@
 
 (Case study)
 ---
-(https://www.figma.com/design/N93B6i5cMZwkvRB9zCqSzp/DEPI-Graduation-Project--Monqez-?node-id=1322-20322&t=WY91S3IeqGK5XvX7-1)
+(https://www.behance.net/gallery/255082117/Monqez-Blood-Donation-Health-App-UIUX-Case-Study)
 
 
 ## Team Members
